@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\glide-3.7.0_667de5bf5b2cfbbceb19d93ad4106ab7a016ebc0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72ea5f357b95775088de38cde825d505882f4323\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\af6661b282cd98446d3f78cbc473bcf9e0992682\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_e21ab0d0fd8dbb170f6f9aebbed1fab2bea0a131.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\bd8d112eb94bef882de17213b6a780cc71a70c92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_3c3dab1fb14146f068996450ce8325853dc27297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\f64203c64c6f8cdb22c40e10d1f1ad236ee7a7f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_96c85d33887ca4a9165241a47a70f88534f1c082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\10fdfb9e2148f991f9ec97819ff474763e2e1775\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_c1fc2fb8948964902af65812ec1fc0ee7173543a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\44f801d3c86d39d6c86a27c40f0cb097ec3e87bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_4cc57f7942033243f84f46f51c15d5bf39e5dcf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\3d7007d6c4971b56f8a0350863603dc8e8d5cac9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_46154884f92f3b8749bb5b7cb809a2983ea9818d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\c2676234043a6b098b53e7af27dfd98a83be1b20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_a4eb2625631e56685e8fdc35ce6a6c54190d5838.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\9b46303f90501a5707c0901503c47de71f8d5bca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_e7ab92f7ba1713e77a5fc0e876fa2dc8281fa1f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\03b834db1c4efc7cec278f354a0500738e3fab33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_2c73f0c027231f53d2f2212582fcecb9b4095d05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\01f7d1b09d9c1c829e5e3fb3bb969f59823788be\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_ea5f00eba46038af06d0fb30c3fe8eafe0118941.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\gson-2.7_82799a0e37e4bf0ff19ea1b5f5e3f16d42441e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\8b1e629db69d60482bd6065f3fd6046f5826a8a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_135fa646aada2b7514dd14e469967eec7a37fad2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\picasso-2.4.0_dae4cb5d985a2da6245cb46dfb1adab315ea9294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\5a5d7abafd4dd4aed57df81edb27847ea85a2bec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_6f2791651989738647762a02e760a225c2172b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\ff4f8fa5e5674bd7bb32931fa2cd230f4fc39bbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_456880a83b5e3c71b5824762262b670e7d905959.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2816be20c2ba6d84de1e4d9e85faa6471f762fc1">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2c48dc8b30706073b24a17b257f33787361b75d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\inside\.android\build-cache\ff8b80eb63ab778a034e6fb68dd4172cd1daed1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\classes_791274b79de049978c663ffde6b89018044f0a2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\inside\StudioProjects\Halmi\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6b7bdd64075f27ac794055998accebfc57200291.jar" />
+    </item>
+
+</items>

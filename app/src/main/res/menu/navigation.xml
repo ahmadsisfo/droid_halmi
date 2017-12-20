@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_kompetensidasar"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Kompetensi Dasar" />
+
+    <item
+        android:id="@+id/navigation_petakonsep"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Peta Konsep" />
+
+    <item
+        android:id="@+id/navigation_materi"
+        android:icon="@drawable/ic_materi"
+        android:title="Materi" />
+
+    <item
+        android:id="@+id/navigation_rangkuman"
+        android:icon="@drawable/ic_rangkuman"
+        android:title="Rangkuman" />
+
+    <item
+        android:id="@+id/navigation_evaluasi"
+        android:icon="@drawable/ic_evaluasi"
+        android:title="Evaluasi" />
+
+</menu>

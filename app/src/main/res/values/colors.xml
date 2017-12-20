@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3A8F3A</color>
+    <color name="colorPrimaryDark">#439843</color>
+    <color name="colorAccent">#FF8000</color>
+
+    <color name="album_title">#4c4c4c</color>
+    <color name="actionbar_opacity">#33000000</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorValid">#FFAA00</color>
+    <color name="colorDeliv">#1F9E1F</color>
+    <color name="colorNotfound">#DF0A35</color>
+
+</resources>
